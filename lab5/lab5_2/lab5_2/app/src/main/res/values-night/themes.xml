@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab5_2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    </style>
+
+    <!-- Додатковий стиль BroadcastApp -->
+    <style name="Theme.BroadcastApp" parent="Base.Theme.Lab5_2">
+        <!-- тут можна додати налаштування, якщо потрібно -->
+    </style>
+</resources>
